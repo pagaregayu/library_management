@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pagaregayu/library_management/static/css/main.768e8d67.css",
-    "main.js": "/pagaregayu/library_management/static/js/main.0d5b20d6.js",
-    "static/js/453.7a2b99bb.chunk.js": "/pagaregayu/library_management/static/js/453.7a2b99bb.chunk.js",
-    "index.html": "/pagaregayu/library_management/index.html",
-    "main.768e8d67.css.map": "/pagaregayu/library_management/static/css/main.768e8d67.css.map",
-    "main.0d5b20d6.js.map": "/pagaregayu/library_management/static/js/main.0d5b20d6.js.map",
-    "453.7a2b99bb.chunk.js.map": "/pagaregayu/library_management/static/js/453.7a2b99bb.chunk.js.map"
+    "main.css": "/library_management/static/css/main.768e8d67.css",
+    "main.js": "/library_management/static/js/main.1034ff81.js",
+    "static/js/453.7a2b99bb.chunk.js": "/library_management/static/js/453.7a2b99bb.chunk.js",
+    "index.html": "/library_management/index.html",
+    "main.768e8d67.css.map": "/library_management/static/css/main.768e8d67.css.map",
+    "main.1034ff81.js.map": "/library_management/static/js/main.1034ff81.js.map",
+    "453.7a2b99bb.chunk.js.map": "/library_management/static/js/453.7a2b99bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.768e8d67.css",
-    "static/js/main.0d5b20d6.js"
+    "static/js/main.1034ff81.js"
   ]
 }
